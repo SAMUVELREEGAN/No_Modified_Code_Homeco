@@ -42,7 +42,7 @@ It allows property & project listings, partner assignments, role-based authentic
 
 ## 📊 Repository Stats
 
-![Contributors](https://img.shields.io/github/contributors/SAMUVELREEGAN/No_Modified_Code_Homeco?color=brightgreen&style=for-the-badge)  ![Forks](https://img.shields.io/github/forks/SAMUVELREEGAN/No_Modified_Code_Homeco?color=yellow&style=for-the-badge)  ![Commit Activity](https://img.shields.io/github/commit-activity/m/SAMUVELREEGAN/No_Modified_Code_Homeco?style=for-the-badge)  
+![Contributors](https://img.shields.io/github/contributors/SAMUVELREEGAN/Real_Estate_Management_System?color=brightgreen&style=for-the-badge)  ![Forks](https://img.shields.io/github/forks/SAMUVELREEGAN/Real_Estate_Management_System?color=yellow&style=for-the-badge)  ![Commit Activity](https://img.shields.io/github/commit-activity/m/SAMUVELREEGAN/Real_Estate_Management_System?style=for-the-badge)  
 
 ---
 
@@ -86,7 +86,7 @@ Dashboard
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/SAMUVELREEGAN/No_Modified_Code_Homeco.git
+   git clone https://github.com/SAMUVELREEGAN/Real_Estate_Management_System.git
 
 
 🤝 Contributing
