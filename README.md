@@ -5,9 +5,9 @@ It allows property & project listings, partner assignments, role-based authentic
 
 ---
 
-<p align="center" style="color:red; font-weight:bold;">
+<p align="center" style="color:red; font-weight:bold;">^</p>
 🔴 Listen carefully: This live system requires login. After login, the Property Team will contact you.
-</p>
+
 
 🔗 **[LIVE WEBSITE – propertiesinfinite](https://propertiesinfinite.com/)**
 
